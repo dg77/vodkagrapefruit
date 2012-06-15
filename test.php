@@ -5,3 +5,5 @@
  * and open the template in the editor.
  */
 ?>
+
+test2
